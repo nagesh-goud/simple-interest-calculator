@@ -1,0 +1,7 @@
+$ git branch
+  bug-fix-typo
+* main
+
+$ git status
+On branch main
+nothing to commit, working tree clean
